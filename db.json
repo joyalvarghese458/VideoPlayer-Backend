@@ -1,0 +1,66 @@
+{
+  "video": [
+    {
+      "id": "2",
+      "caption": "LEO",
+      "url": "https://assets.gadgets360cdn.com/pricee/assets/product/202303/Leo_1678967552.jpg",
+      "embedLink": "https://www.youtube.com/embed/szvt1vD0Uug"
+    },
+    {
+      "id": "3",
+      "caption": "Ezhimala Poonchola",
+      "url": "https://www.mixindia.com/wp-content/uploads/2020/03/spadika-reloading-first-look-poster.jpg",
+      "embedLink": "https://www.youtube.com/embed/FGSOESOKk_k"
+    },
+    {
+      "id": "4",
+      "caption": "React",
+      "url": "https://assets.lulu.com/cover_thumbs/1/v/1vgq9jyj-front-shortedge-384.jpg",
+      "embedLink": "https://www.youtube.com/embed/6Qiep6rVwjw"
+    }
+  ],
+  "category": [
+    {
+      "CategoryName": "malayalam",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "Ezhimala Poonchola",
+          "url": "https://www.mixindia.com/wp-content/uploads/2020/03/spadika-reloading-first-look-poster.jpg",
+          "embedLink": "https://www.youtube.com/embed/FGSOESOKk_k"
+        },
+        {
+          "id": "1",
+          "caption": "Heereye",
+          "url": "https://i0.wp.com/urbanasian.com/wp-content/uploads/2023/07/ed67f181-4c81-4041-8856-849174501798.jpeg?w=1280&ssl=1",
+          "embedLink": "https://www.youtube.com/embed/RLzC55ai0eo"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "CategoryName": "Tamil",
+      "allVideos": [],
+      "id": 2
+    },
+    {
+      "CategoryName": "React",
+      "allVideos": [],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "LEO",
+      "embedLink": "https://www.youtube.com/embed/szvt1vD0Uug",
+      "timestamp": "08/11/2023, 22:37:04",
+      "id": 2
+    },
+    {
+      "caption": "Ezhimala Poonchola",
+      "embedLink": "https://www.youtube.com/embed/FGSOESOKk_k",
+      "timestamp": "09/11/2023, 11:54:14",
+      "id": 3
+    }
+  ]
+}
